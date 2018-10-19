@@ -14,7 +14,7 @@ webhook (including the verify_token) in the config.json, you just
 
 ## Localization
 
-Unfortunately, this project is primary for my personal use and, me
+Unfortunately, this project is primarily for my personal use and, me
 being a Spanish-speaking person, all chat strings are in Spanish
 and information is mostly looked up on hispanic sites.
 
