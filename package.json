@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"bootbot": "^1.0.16",
+		"jsdom": "12.2.0",
+		"request": "^2.88.0",
+		"striptags": "3.1.1",
+		"turndown": "5.0.1"
+	}
+}
